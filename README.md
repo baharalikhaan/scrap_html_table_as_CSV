@@ -1,1 +1,2 @@
-# scrap_html_table_as_CSV
+# Purpose
+A Chrome extension that scrap and export HTML table as CSV file
